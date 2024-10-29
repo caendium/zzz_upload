@@ -1,0 +1,7 @@
+ManifestFileVersion: 0
+CRC: 2850305290
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: data
+      Dependencies: {}
